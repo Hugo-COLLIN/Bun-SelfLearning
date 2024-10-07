@@ -1,3 +1,4 @@
+// > bun test
 import { describe, expect, it } from "bun:test";
 import {add} from "./index.ts";
 

@@ -1,3 +1,4 @@
+// > bun index.ts
 console.log("Hello via Bun!");
 
 const txtFile = Bun.file("data/text.txt")
